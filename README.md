@@ -2,8 +2,9 @@
 I’m currently working on data structures and algorithms and exploring game development + Web development . I’m also actively participating in hackathons to learn and improve.<br><br>Fun fact: Out of all these game development is still my fav :)
 
 
-## 🌐 Socials:
-[![Itch.io](https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white)](https://prolly-adi.itch.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-jha-sit/) 
+## 🤝 Connect With Me
+
+<p align="center"> <a href="https://linkedin.com/in/aditya-jha-sit/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://prolly-adi.itch.io/"><img src="https://img.shields.io/badge/Itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white" alt="itch.io" /></a> <a href="https://adityajhadev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://github.com/aditya-j07"></a> </p>
 
 # 💻 Tech Stack:
 
@@ -22,10 +23,11 @@ I’m currently working on data structures and algorithms and exploring game dev
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge\&logo=unity\&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge\&logo=Adobe%20Creative%20Cloud\&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge\&logo=godot-engine\&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya-J07&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya-J07&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-J07&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://your-new-domain.vercel.app/api?username=Aditya-J07&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aditya-J07&theme=highcontrast&hide_border=false)<br/>
+![](https://your-new-domain.vercel.app/api/top-langs/?username=Aditya-J07&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📈 Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Aditya-J07\&theme=github-dark)
@@ -33,10 +35,7 @@ I’m currently working on data structures and algorithms and exploring game dev
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aditya-J07&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aditya-J07&icon=2&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
