@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=032DB3&width=435&lines=Helloo+Myself+Aditya+Jha+!)](https://git.io/typing-svg)
+
 # 💫 About Me:
 I’m currently working on data structures and algorithms and exploring game development + Web development . I’m also actively participating in hackathons to learn and improve.<br><br>Fun fact: Out of all these game development is still my fav :)
 
